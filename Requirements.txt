@@ -1,0 +1,5 @@
+To run this game, you will need:
+
+1) Python 3.x installed on your machine.
+2) Tkinter library (usually included with Python installations).
+3) Hangman images (0.png to 10.png) in the same directory as the script.
